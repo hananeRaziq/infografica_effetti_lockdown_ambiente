@@ -11,4 +11,4 @@
  Questo è il risultato di un laboratorio online che ha visto me, Marialuisa Brenna, Michele Capuozzo e Davide Vaccari  incontrarsi per svariate ore su Meet e sotto la guida e l'expertise grafica della nostra docente Lisa Orlando,  abbiamo creato questa infografica.
 
 
-<img src=“https://github.com/hananeRaziq/infografica_effetti_lockdown_ambiente/edit/main/infografica.jpg”>
+<img src=“https://github.com/hananeRaziq/infografica_effetti_lockdown_ambiente/infografica.jpg”>
