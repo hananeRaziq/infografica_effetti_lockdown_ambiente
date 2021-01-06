@@ -6,9 +6,11 @@
 
  E tu che mondo scegli? 
  
- Con il corso organizzato da FCF Ferrara per Datalab, la bravissima docente Lisa Orlando ci ha introdotti al mondo  dell'Infografica e della Data Visualization.
+
+![Infografica](https://user-images.githubusercontent.com/66515642/103803191-8a21aa80-5050-11eb-8049-1b7b10e2272a.jpg)
+
+
+ Questo è il risultato di un laboratorio online che ha visto me, Marialuisa Brenna, Michele Capuozzo e Davide Vaccari  incontrarsi per svariate ore su Meet e sotto la guida e l'expertise grafica della nostra docente Lisa Orlando, abbiamo creato questa infografica.
+
+ Il corso è stato organizzato da Formazione Confindustria Ferrara per DATALAB, dove la bravissima docente Lisa Orlando ci ha introdotti al mondo dell'Infografica e della Data Visualization.
  
- Questo è il risultato di un laboratorio online che ha visto me, Marialuisa Brenna, Michele Capuozzo e Davide Vaccari  incontrarsi per svariate ore su Meet e sotto la guida e l'expertise grafica della nostra docente Lisa Orlando,  abbiamo creato questa infografica.
-
-
-<img src=“https://github.com/hananeRaziq/infografica_effetti_lockdown_ambiente/infografica.jpg”>
